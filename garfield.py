@@ -3,6 +3,11 @@ import sys
 from datetime import datetime
 import random
 
+Class Garfield():
+	def __init__(self):
+		self.is_cat = True
+		self.favorite_food = 'lasagna'
+		
 list_of_errors = [
 	KeyError,
 	NameError,
