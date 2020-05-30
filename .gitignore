@@ -1,0 +1,8 @@
+# Python Relics
+__pycache__/
+.egg
+
+# IDE Relics
+.idea
+.ipynb_checkpoints
+
